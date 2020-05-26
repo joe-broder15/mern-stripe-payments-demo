@@ -1,0 +1,22 @@
+Button {
+    width:100%
+}
+
+#paymentWidgetContainerCard {
+    max-width: 820px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+#paymentSelectForm {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#paymentArea {
+    padding-top:0px; 
+    width:100%;
+}
