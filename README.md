@@ -1,4 +1,4 @@
-# MERN Stripe patments demo (MEDIUM ARTICLE COMING SOON)
+# MERN Stripe patments demo (ARTICLE COMING SOON)
 
 
 This is a quick and easy demonstration of how to include payments in your MERN app. We use Stripe to handle the payments, and specifically the stripe elements smart UI components. This example only uses test keys, but to make live transactions all you need to do is activate your stripe account and switch out the appropriate keys.
