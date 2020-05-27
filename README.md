@@ -37,7 +37,7 @@ This app was bootstrapped `with create-react-app`, and depends on react, express
 
 7. **Run `npm run start` to start the react client**
 
-8. **Visit** http://localhost:3000 ** to check out the demo**
+8. **Visit** http://localhost:3000 **to check out the demo**
 
 9. **For any credit card transactions made with the test keys, use the number `4242 4242 4242 4242` with any CCV, expiration date, and zip**
 
