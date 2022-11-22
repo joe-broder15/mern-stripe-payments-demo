@@ -16,7 +16,7 @@
     "react-dom": "^16.13.1",
     "react-paypal-button-v2": "^2.6.2",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-smart-payment-buttons": "^0.2.3",
     "stripe": "^8.55.0"
   },
