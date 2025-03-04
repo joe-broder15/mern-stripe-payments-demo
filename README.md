@@ -1,4 +1,6 @@
-# MERN Stripe Payments Demo (ARTICLE COMING SOON)
+# MERN Stripe Payments Demo 
+
+## [Tutorial](https://medium.com/@joe.broder15/adding-credit-card-payments-to-your-mern-app-65af7a9a0e0)
 
 
 This is a quick and easy demonstration of how to include payments in your MERN app. We use Stripe to handle the payments, and specifically the stripe elements smart UI components. This example only uses test keys, but to make live transactions all you need to do is activate your stripe account and switch out the appropriate keys.
